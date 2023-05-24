@@ -98,5 +98,17 @@
   <ItemGroup>
     <None Include="Resources\27042020.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dji-0021-edit-2000x888.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-jonathan-meyer-668300.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lifeline-heartbeat.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lifeline-heartbeat1.gif" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
