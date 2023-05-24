@@ -26,12 +26,12 @@ namespace WindowsFormsApp3
         {
             string username = txtUserName.Text;
             string pass = txtpassword.Text;
-            if (username == "mido" && pass == "midoxmax")
+            if (username == "mido" && pass == "123456")
             {
-                 // MessageBox.Show("welcome to our system");
-              this.Hide();
-                Form2 form2 = new Form2();  
-                form2.ShowDialog();
+               //MessageBox.Show("welcome to our ggsystem");
+          this.Hide();
+             Form2 form2 = new Form2();  
+              form2.Show();
 
             }
             else

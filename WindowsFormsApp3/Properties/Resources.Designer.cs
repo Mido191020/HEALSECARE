@@ -73,6 +73,16 @@ namespace WindowsFormsApp3.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap dji_0021_edit_2000x888 {
+            get {
+                object obj = ResourceManager.GetObject("dji-0021-edit-2000x888", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap download__2_ {
             get {
                 object obj = ResourceManager.GetObject("download (2)", resourceCulture);
@@ -86,6 +96,36 @@ namespace WindowsFormsApp3.Properties {
         internal static System.Drawing.Bitmap healthecare_logo {
             get {
                 object obj = ResourceManager.GetObject("healthecare-logo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lifeline_heartbeat {
+            get {
+                object obj = ResourceManager.GetObject("lifeline-heartbeat", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lifeline_heartbeat1 {
+            get {
+                object obj = ResourceManager.GetObject("lifeline-heartbeat1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pexels_jonathan_meyer_668300 {
+            get {
+                object obj = ResourceManager.GetObject("pexels-jonathan-meyer-668300", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
